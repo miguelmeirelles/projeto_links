@@ -1,7 +1,8 @@
-<h1 align="center"> José Augusto | Corretor </h1>
+<h1 align="center"> Organizador de Links </h1>
 
 <p align="center">
-Projeto feito para organizar os links de um corretor de imóveis. Servindo tambem como um projeto para o meu portifolio. <br/>
+Projeto feito para organizar os links de um corretor de imóveis. José Augusto | Corretor. <br/>
+Servindo tambem como um projeto para o meu portifolio. <br/></p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,9 +11,6 @@ Projeto feito para organizar os links de um corretor de imóveis. Servindo tambe
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
 
 <br>
 
@@ -31,9 +29,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Organizador de links é um agregador de links para usar como cartão de visitas online. Esse projeto foi feito para um corretor de imóveis, organizando os seus links, rede sociais, sites, telefone.
 
 - [Acesse o projeto finalizado, online]
+  (https://github.com/miguelmeirelles/projeto_links)
 
 ---
 
