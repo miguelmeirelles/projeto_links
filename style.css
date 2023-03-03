@@ -6,12 +6,14 @@
 
 :root {
   --text-color: white;
+  --text-shadow: 0.1px 0.1px 0.2px black;
   --bg-url: url(./assets/bg-salinas.jpeg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --surface-color-hover: rgba(255, 255, 255, 0.05);
   --highlight-color: rgba(255, 255, 255, 0.2);
   --switch-bg-url: url(./assets/moon-star.svg);
+  
 }
 .light {
   --text-color: white;
@@ -30,6 +32,9 @@ body {
 body * {
   font-family: "Inter", sans-serif;
   color: var(--text-color);
+}
+body p {
+  text-shadow: 0.2em 0.2em 0.5em black;;
 }
 
 #container {
@@ -159,21 +164,19 @@ footer {
 
 /*animation*/
 @keyframes slide-in {
-  from{
+  from {
     left: 0;
   }
   to {
     left: 50%;
   }
-
 }
 
 @keyframes slide-back {
-  from{
+  from {
     left: 50%;
   }
-  to{
-     left: 0;
+  to {
+    left: 0;
   }
 }
-
